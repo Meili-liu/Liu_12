@@ -1,0 +1,17 @@
+<annotation>
+  <filename>vehicle_public_roads_avenue_0001_train_p_day_20210416_19.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>295</xmin>
+      <ymin>311</ymin>
+      <xmax>379</xmax>
+      <ymax>387</ymax>
+    </bndbox>
+  </object>
+</annotation>

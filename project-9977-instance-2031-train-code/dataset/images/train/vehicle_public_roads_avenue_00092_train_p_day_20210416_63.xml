@@ -1,0 +1,17 @@
+<annotation>
+  <filename>vehicle_public_roads_avenue_00092_train_p_day_20210416_63.jpg</filename>
+  <size>
+    <width>4096</width>
+    <height>2160</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>motorbike</name>
+    <bndbox>
+      <xmin>2537</xmin>
+      <ymin>1368</ymin>
+      <xmax>2890</xmax>
+      <ymax>2133</ymax>
+    </bndbox>
+  </object>
+</annotation>

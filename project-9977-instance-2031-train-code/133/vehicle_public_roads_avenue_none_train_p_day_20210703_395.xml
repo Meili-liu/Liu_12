@@ -1,0 +1,35 @@
+<annotation>
+  <filename>vehicle_public_roads_avenue_none_train_p_day_20210703_395.jpg</filename>
+  <size>
+    <width>1906</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>384</xmin>
+      <ymin>282</ymin>
+      <xmax>485</xmax>
+      <ymax>384</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>217</ymin>
+      <xmax>391</xmax>
+      <ymax>463</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>motorbike</name>
+    <bndbox>
+      <xmin>732</xmin>
+      <ymin>269</ymin>
+      <xmax>748</xmax>
+      <ymax>295</ymax>
+    </bndbox>
+  </object>
+</annotation>
