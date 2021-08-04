@@ -1,0 +1,112 @@
+### C++ ###
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+### C ###
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+## python
+*.py[cod]
+*$py.class
+__pycache__/
+
+.idea
+*.jpg
+*.png
+core.*
+.vscode
+<<<<<<< HEAD
+=======
+c0eb8a72deb779c328b0413a0ab06c625f770f
+model.ckpt.data-00000-of-00001
+>>>>>>> 318f2ed9cf852235219b46c844c980c81d475496
+pack-c9cd66159750a7fa5bbedfc006aecdc09082b431.pack
+pack-3b68b89081919be89d28fb4961e6a159c6e6d70e.pack
+train.record
+valid.record
+events.out.tfevents.1627877369.project-9977-instance-2031-ov-ide-7fff68b7bb-tmkcj
+graph.pbtxt
+model.ckpt-0.data-00000-of-00001
+model.ckpt-0.meta
+model.ckpt-100.data-00000-of-00001
+model.ckpt-100.meta
+variables.data-00000-of-00001
+frozen_inference_graph.pb
+saved_model.pb
+events.out.tfevents.1627897739.project-9977-instance-2031-ov-ide-74cc9dbd69-8kmrt
+events.out.tfevents.1627899356.project-9977-instance-2031-ov-ide-74cc9dbd69-8kmrt
+events.out.tfevents.1627904895.project-9977-instance-2031-ov-ide-74cc9dbd69-8kmrt
+graph-checkpoint.pbtxt
+pack-dfc992c09ad7f7d5e7f77c922592e8dceed058e5.pack
+ssd_inception_v2.pb
+pack-14dfee594e611d41c785a0319692e24118afeb71.pack
